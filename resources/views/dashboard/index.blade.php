@@ -1,5 +1,5 @@
 @extends('dashboard.layout.main')
 
 @section('container')
-    <h1> welcome to SPK menggunakan metode Saw</h1>
+    ini halaman untuk dashbord grafik log error, berhasil, dan jumlah yang berhasil untuk sistem spk
 @endsection
